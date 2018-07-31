@@ -21,7 +21,7 @@ Pretty much only raw Python (yes, I loved for loops at the time)
 - Grade : 83 / 100
 
 ## Overall (self-analysis 31/07/18)  : 
-- Stability : MOK, lots of stuff going on, remember having some memory issues, these are most likely solved but highlights potential flaws.
+- Stability : MOK, remember having memory issues at some point (fixed)
 - Readability  : Not too bad but not a lot of comments
 - Code quality : Decent, if we ignore the fact that it is raw Python, hence very nested code.
-- Performance  : NO, just no. At least I used a profiler and Cythonized the heaviest function, but not using NumPy is a bit No No.
+- Performance  : NO, just no. At least I used a profiler and Cythonized the heaviest function, but not using NumPy is a big No No.
